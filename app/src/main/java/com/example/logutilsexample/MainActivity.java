@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         logutils.logutils_method();
-//        Log.e("tag","dasd");
+        Log.e("tag","dasd");
     }
 }
